@@ -6,10 +6,10 @@ This repo tracks my learning journey. It contains exercises, queries, and sample
 The goal is to gain confidence writing queries for real-word datasets, analyzing data efficiently, and building reusable SQL workflows.
 
 ## What's inside?
--`queries/` - practice SQL queries on sample datasets
--`schemas/` - database structures and tables used for exercises
--`projects/` - small projects combining queries for analysis or reporting
--`notes/` - explanations of concepts, best practices, and optimizations
+- `queries/` - practice SQL queries on sample datasets
+- `schemas/` - database structures and tables used for exercises
+- `projects/` - small projects combining queries for analysis or reporting
+- `notes/` - explanations of concepts, best practices, and optimizations
 
 ## Learning Goals
 - Understand relational database concepts and normalization
