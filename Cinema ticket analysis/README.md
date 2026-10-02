@@ -19,6 +19,7 @@ This project consolidates foundational SQL skills through practical data analysi
 * NULL handling
 * Date and time filtering
 * Basic revenue and ticket analysis
+* JOINs
 
 ## Database
 
